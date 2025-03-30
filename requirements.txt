@@ -1,0 +1,20 @@
+# Core data analysis packages
+numpy>=1.26.3
+pandas>=2.2.0
+matplotlib>=3.7.0
+
+# Excel support
+openpyxl>=3.1.0
+xlrd>=2.0.1
+
+# CSV and other data formats
+python-dateutil>=2.8.2
+pytz>=2020.1
+
+# Jupyter support (if needed)
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# Optional performance enhancements
+numexpr>=2.8.4
+bottleneck>=1.3.6
